@@ -1,7 +1,7 @@
 # Sogoti_Aufgabe
 How to run "Main"
 
-The framework is designed for non technical users tkinter gui
+The framework is designed for non technical users, it is a tkinter gui
 
 Prerequist: 
 
